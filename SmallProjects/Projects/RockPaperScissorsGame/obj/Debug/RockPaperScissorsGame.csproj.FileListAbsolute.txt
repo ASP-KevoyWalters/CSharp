@@ -1,0 +1,6 @@
+F:\APPLICATION DEVELOPMENT\SmallProjects\Projects\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe.config
+F:\APPLICATION DEVELOPMENT\SmallProjects\Projects\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe
+F:\APPLICATION DEVELOPMENT\SmallProjects\Projects\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.pdb
+F:\APPLICATION DEVELOPMENT\SmallProjects\Projects\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csprojResolveAssemblyReference.cache
+F:\APPLICATION DEVELOPMENT\SmallProjects\Projects\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.exe
+F:\APPLICATION DEVELOPMENT\SmallProjects\Projects\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.pdb
